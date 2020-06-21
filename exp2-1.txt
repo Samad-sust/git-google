@@ -3,3 +3,4 @@ line 2 added locally but now edited remotely.
 line3 added remotely
 line 4 added locally also
 added remotely
+new line added line 6 locally
