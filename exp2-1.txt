@@ -1,1 +1,8 @@
 line 1 added successfully
+line 2 added locally but now edited remotely.
+line3 added remotely
+line 4 added locally also
+added remotely
+new line added line 6 locally
+remotely added line 7
+locally added line 8 oh previously wrong
