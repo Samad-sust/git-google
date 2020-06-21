@@ -2,3 +2,5 @@ line 1 added successfully
 line 2 added locally
 line3 added remotely
 line 4 added locally also
+line 5 added locally
+line 6 added locally
